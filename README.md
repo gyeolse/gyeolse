@@ -27,7 +27,4 @@
 
 
 <h3 align="center">:pencil2: Records :pencil2: </h3>
-
 [![gyeolse's github stats](https://github-readme-stats.vercel.app/api?username=gyeolse)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gyeolse)](https://solved.ac/gyeolse)

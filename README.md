@@ -14,7 +14,7 @@
 
 ### 📫 Contacts
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://coterest.tistory.com)](https://coterest.tistory.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gyeolse.github.io)](https://gyeolse.github.io) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:segylee5030@gmail.com)](mailto:segylee5030@gmail.com)
 
 

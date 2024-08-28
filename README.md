@@ -13,9 +13,9 @@ Embedded Software Engineer in Korea 🇰🇷
 
 ### Latest Blog Posts ✏️
 
+- [코틀린에서 함수 및 람다를 다루는 방법 - 16강, 17강](https://wave-dev-log.tistory.com/28)
+- [코틀린에서 배열과 컬렉션을 다루는 방법 - 15강](https://wave-dev-log.tistory.com/27)
 - [코틀린에서 다양한 클래스를 다루는 방법 - 14강](https://wave-dev-log.tistory.com/26)
 - [코틀린에서 중첩 클래스를 다루는 방법 - 13강](https://wave-dev-log.tistory.com/25)
 - [코틀린에서 object 키워드를 다루는 방법 - 12강](https://wave-dev-log.tistory.com/24)
-- [코틀린에서 접근 제어를 다루는 방법 - 11강](https://wave-dev-log.tistory.com/23)
-- [코틀린에서 상속을 다루는 방법 - 10강](https://wave-dev-log.tistory.com/22)
 

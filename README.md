@@ -15,8 +15,9 @@ Embedded Software Engineer in Korea 🇰🇷
 
 ### Latest Blog Posts ✏️
 
+- [코틀린에서 접근 제어를 다루는 방법 - 11강](https://wave-dev-log.tistory.com/23)
+- [코틀린에서 상속을 다루는 방법 - 10강](https://wave-dev-log.tistory.com/22)
 - [코틀린에서 클래스를 다루는 방법 - 9강](https://wave-dev-log.tistory.com/21)
 - [코틀린에서 함수를 제어하는 방법 - 8강](https://wave-dev-log.tistory.com/20)
 - [코틀린에서 코드를&nbsp;제어하는 방법 - 6강, 7강](https://wave-dev-log.tistory.com/19)
-- [코틀린에서&nbsp;코드를 제어하는 방법 - 5강](https://wave-dev-log.tistory.com/18)
-- [코틀린에서&nbsp;변수와&nbsp;타입, 연산자를 다루는 방법 #2](https://wave-dev-log.tistory.com/17)
+

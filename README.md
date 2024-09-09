@@ -13,9 +13,9 @@ Embedded Software Engineer in Korea 🇰🇷
 
 ### Latest Blog Posts ✏️
 
+- [Sqlite3 에서 csv 파일을 데이터베이스에 import 해보기](https://wave-dev-log.tistory.com/37)
 - [lateinit 과 lazy](https://wave-dev-log.tistory.com/36)
 - [코틀린의 제네릭 제약과 제너릭 함수](https://wave-dev-log.tistory.com/35)
 - [코틀린의 선언 지점 변성/ 사용 지점 변성](https://wave-dev-log.tistory.com/34)
 - [코틀린의 배열과 리스트, 제너릭과 무공변, 공변, 반공변](https://wave-dev-log.tistory.com/33)
-- [코틀린의 제너릭과 타입 파라미터](https://wave-dev-log.tistory.com/32)
 
